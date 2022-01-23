@@ -12,6 +12,7 @@
 
 ## Arbitrage
 
-* [Page 1](arbitrage/page-1.md)
+* [aave](arbitrage/aave.md)
+* [compound](arbitrage/compound.md)
 * [dydx](arbitrage/dydx/README.md)
   * [robot1](arbitrage/dydx/robot1.md)
