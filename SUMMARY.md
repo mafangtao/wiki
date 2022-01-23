@@ -12,4 +12,6 @@
 
 ## Arbitrage
 
-* [dydx](arbitrage/dydx.md)
+* [Page 1](arbitrage/page-1.md)
+* [dydx](arbitrage/dydx/README.md)
+  * [robot1](arbitrage/dydx/robot1.md)
