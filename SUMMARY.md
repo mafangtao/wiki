@@ -13,7 +13,7 @@
 ## Arbitrage
 
 * [aave](arbitrage/aave.md)
-* [compound](arbitrage/compound/README.md)
+* [compound](arbitrage/compound.md)
   * [监控脚本](arbitrage/compound/jian-kong-jiao-ben.md)
 * [dydx](arbitrage/dydx/README.md)
   * [待处理](arbitrage/dydx/dai-chu-li.md)
