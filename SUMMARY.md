@@ -22,3 +22,7 @@
 ## utils
 
 * [go编译的合约](utils/go-bian-yi-de-he-yue.md)
+
+## newmind
+
+* [机器学习-uniswapV3](newmind/ji-qi-xue-xi-uniswapv3.md)
